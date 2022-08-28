@@ -19,8 +19,8 @@ be asked and how they would be presented. Once a direction was determined, ESG_A
 conclusions specifically on food related sectors comprising of 745 companies.  Specifically - Beverages, Food Products, Retail - Food & Staples, and
 Restaurants.
 
-Findings are limited by the fact that the data only contains the final ratings for each company on an overall basis as well as an environmental, social and
-governance basis. Questions asked to determine ratings and how data was weighted to come to the overall score was not available.
+Visulations and conclusions are limited by the data only contains the final ratings for each company. Questions asked, how data was weighted to come
+to the overall score, and any other factor the company takes into account when determining company ratings were not available.
 
 
 Sections - ESG_Analytics_for_Food_Related_Sectors.ipynb:
